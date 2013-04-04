@@ -1,0 +1,2 @@
+node-mtgox-socketio-client
+==========================
